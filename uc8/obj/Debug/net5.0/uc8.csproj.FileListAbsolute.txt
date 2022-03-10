@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\uc8\uc8\bin\Debug\net5.0\uc8.exe
+C:\Users\churchill paul\source\repos\uc8\uc8\bin\Debug\net5.0\uc8.deps.json
+C:\Users\churchill paul\source\repos\uc8\uc8\bin\Debug\net5.0\uc8.runtimeconfig.json
+C:\Users\churchill paul\source\repos\uc8\uc8\bin\Debug\net5.0\uc8.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\uc8\uc8\bin\Debug\net5.0\uc8.dll
+C:\Users\churchill paul\source\repos\uc8\uc8\bin\Debug\net5.0\uc8.pdb
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\uc8.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\uc8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\uc8.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\uc8.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\uc8.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\uc8.dll
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\refint\uc8.dll
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\uc8.pdb
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\uc8.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\uc8\uc8\obj\Debug\net5.0\ref\uc8.dll
